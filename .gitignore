@@ -1,0 +1,5 @@
+.env
+node_modules
+esm
+dist
+package-lock.json
